@@ -1,7 +1,7 @@
-@Library('todo') _
+@Library('todo')
 
 todo (
-  COMPONENT          : 'frontend',
+  COMPONENT          : 'frontend1',
   PROJECT_NAME       : "TODOAPP",
   SLAVE_LABEL        : "NODEJS",
   SKIP_NEXUS_UPLOAD  : false
